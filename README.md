@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vyanky1227
 - 👀 I’m interested in content writing,web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- I’m looking to collaborate on ...
 - 📫 How to reach me via email.
 
 <!---
